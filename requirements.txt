@@ -1,0 +1,6 @@
+anaconda3
+python 3.9
+unittest
+itertools
+sys
+time
